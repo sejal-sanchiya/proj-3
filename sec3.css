@@ -45,7 +45,7 @@ h1{
     margin-top: 200px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size:75px; 
-    
+    padding-top: 30px;
     
 }
 span{
@@ -55,10 +55,6 @@ span{
 P{
     margin-left: 50px;
 }
- .fa{
-    font-size:50px;
-    /* border-radius: 50%; */
-    /* border:2px solid black ; */
-        padding-left: 7%;
-        padding-bottom: 25%;
+.content{
+    margin-top: 5px;
 }
